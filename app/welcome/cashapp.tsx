@@ -137,7 +137,7 @@ const App: React.FC = () => {
               <DollarSign size={40} className="text-yellow-500" />
               <div>
                 <h3 className="text-xl font-bold text-gray-800">$1M+</h3>
-                <p className="text-gray-600">Total Earnings</p>
+                <p className="text-gray-600">Total Earnings today</p>
               </div>
             </div>
           </div>
